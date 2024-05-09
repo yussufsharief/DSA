@@ -1,15 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c74006b3-b65a-44fc-88cb-b691ddecabc3" name="Changes" comment="" />
+    <list default="true" id="c74006b3-b65a-44fc-88cb-b691ddecabc3" name="Changes" comment="DSA">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/concurrency/practice/ConversionOverload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/concurrency/practice/GFG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/concurrency/practice/MapCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/concurrency/practice/MaxCountInList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/concurrency/practice/MyFirstThreadRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/concurrency/practice/MysecondThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/concurrency/practice/NewClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/concurrency/practice/RaceConditionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/concurrency/practice/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/concurrency/practice/SimpleClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/concurrency/practice/ThreadPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/concurrency/practice/p.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/desginpatterns/SingletonNoThreadSafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/desginpatterns/SingletonThreadSafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/problems/FindIthBitOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/problems/FindUniqueIntheArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/problems/OddEvenWithAnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/problems/SumOFNNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inteveivew/DigitCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inteveivew/DigitSumChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inteveivew/EvenDigitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inteveivew/GreatestCommonDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inteveivew/MainMethodOveload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inteveivew/MinMaxFromUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inteveivew/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inteveivew/NumberToWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inteveivew/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inteveivew/PrimeNumberChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inteveivew/PrintReverseArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inteveivew/PrintSquareStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inteveivew/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inteveivew/SharedDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inteveivew/Sum3And5Challenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inteveivew/SumFirstAndLastDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inteveivew/WhileLoopChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/Banc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/CheckStringAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/ExtractDuplicateElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/FindDuplicateCharInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/FindFirstRepeatedChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/FindMaxMinOfListNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/FindStringStartsWithNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/FindTheAgeInYearsOnYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/FindTwoCommonElementInArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/First10OddNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/FirstNonRepeateChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/FreqeuncyOfEachElementInList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/FrequencyOfEachCharInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/GetLastElementOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/IntArraySumAverageOfAllElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/JoinListOfStringsWithExtraStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/Max3AndMin3ElementsFromList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/MergeTwoUnsortedArraysSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/MostRepeatedElementInTheArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/MoveAllZerosToLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/PrintFirst10EvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/PrintNumbersMultiplesOf5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/RemoveDuplicateFromList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/ReverseEachWordOfStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/ReverseIntArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/SecondLargetNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/SeperateOddAndEvenInListIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/SoldProductAggregator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/SortDecimalsInReverseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/SortListByIncreasingOrderOfElementLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/SumOfAllDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/SumOfFirst10NatNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/UHG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/realtime/CGI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/realtime/CGIController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/realtime/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/realtime/RealTimeStreamEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/realtime/RemoveAllOcc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/wipro/EURExchangeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/wipro/RomanToNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/wipro/SmallestIntInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/streams/wipro/SoldProductsAggregator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yussufsharief&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yussufsharief/DSA.git&quot;,
+    &quot;accountId&quot;: &quot;c8a52062-cf97-49bd-a6c7-84a00d435097&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2OVZHucpUokCJm2S6Vma3gXDZhk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -18,12 +132,180 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Banc.executor": "Run",
+    "Application.CGI.executor": "Run",
+    "Application.CheckStringAnagrams.executor": "Run",
+    "Application.ConversionOverload.executor": "Run",
+    "Application.DigitCount.executor": "Run",
+    "Application.DigitSumChallenge.executor": "Debug",
+    "Application.EvenDigitSum.executor": "Debug",
+    "Application.ExtractDuplicateElements.executor": "Run",
+    "Application.FibonacciSeries.executor": "Run",
+    "Application.FindDuplicateCharInString.executor": "Run",
+    "Application.FindFirstRepeatedChar.executor": "Run",
+    "Application.FindMaxMinOfListNumbers.executor": "Run",
+    "Application.FindStringStartsWithNumber.executor": "Run",
+    "Application.FindTheAgeInYearsOnYear.executor": "Run",
+    "Application.FindTwoCommonElementInArrays.executor": "Run",
+    "Application.FindUniqueIntheArray.executor": "Run",
+    "Application.First10OddNumber.executor": "Run",
+    "Application.FirstNonRepeateChars.executor": "Run",
+    "Application.FreqeuncyOfEachElementInList.executor": "Run",
+    "Application.FrequencyOfEachCharInString.executor": "Run",
+    "Application.GFG (1).executor": "Run",
+    "Application.GetLastElementOfArray.executor": "Run",
+    "Application.GreatestCommonDivisor.executor": "Run",
+    "Application.IntArraySumAverageOfAllElements.executor": "Run",
+    "Application.JoinListOfStringsWithExtraStrings.executor": "Run",
+    "Application.MainMethodOveload.executor": "Run",
+    "Application.MapCheck.executor": "Run",
+    "Application.Max3AndMin3ElementsFromList.executor": "Run",
+    "Application.MaxCountInList.executor": "Debug",
+    "Application.MergeTwoUnsortedArraysSorted.executor": "Run",
+    "Application.MissingNumber.executor": "Run",
+    "Application.MostRepeatedElementInTheArray.executor": "Run",
+    "Application.MoveAllZerosToLast.executor": "Run",
+    "Application.NumberToWords.executor": "Run",
+    "Application.OddEvenWithAnd.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PrimeNumberChallenge.executor": "Run",
+    "Application.PrintFirst10EvenNumbers.executor": "Run",
+    "Application.PrintNumbersMultiplesOf5.executor": "Run",
+    "Application.PrintReverseArr.executor": "Run",
+    "Application.PrintSquareStart.executor": "Run",
+    "Application.RealTimeStreamEmployee.executor": "Run",
+    "Application.RemoveAllOcc.executor": "Run",
+    "Application.RemoveDuplicateFromList.executor": "Run",
+    "Application.Reverse.executor": "Run",
+    "Application.ReverseEachWordOfStream.executor": "Run",
+    "Application.ReverseIntArray.executor": "Run",
+    "Application.ReverseNumber.executor": "Run",
+    "Application.RomanToNumber.executor": "Run",
+    "Application.SecondLargetNumberInArray.executor": "Run",
+    "Application.SeperateOddAndEvenInListIntegers.executor": "Run",
+    "Application.SharedDigit.executor": "Run",
+    "Application.SimpleClass.executor": "Run",
+    "Application.SmallestIntInArray.executor": "Run",
+    "Application.SoldProductsAggregator (1).executor": "Run",
+    "Application.SoldProductsAggregator (2).executor": "Run",
+    "Application.SoldProductsAggregator (3).executor": "Run",
+    "Application.SoldProductsAggregator (4).executor": "Run",
+    "Application.SoldProductsAggregator.executor": "Run",
+    "Application.SortDecimalsInReverseOrder.executor": "Run",
+    "Application.SortListByIncreasingOrderOfElementLength.executor": "Run",
+    "Application.Sum3And5Challenge.executor": "Run",
+    "Application.SumFirstAndLastDigit.executor": "Debug",
+    "Application.SumOfAllDigits.executor": "Run",
+    "Application.SumOfFirst10NatNumbers.executor": "Run",
+    "Application.UHG.executor": "Run",
+    "Application.WhileLoopChallenge.executor": "Run",
+    "Application.com.concurrency.practice.GFG.executor": "Debug",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/Zyxan/Project/DSA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.RomanToNumber">
+    <configuration name="Banc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.streams.Banc" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanToNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.streams.wipro.RomanToNumber" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.streams.wipro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SoldProductsAggregator (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.streams.wipro.SoldProductsAggregator" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.streams.wipro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SoldProductsAggregator (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.streams.wipro.SoldProductsAggregator" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.streams.wipro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SoldProductsAggregator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.streams.wipro.SoldProductsAggregator" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.streams.wipro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RomanToNumber" />
+        <item itemvalue="Application.Banc" />
+        <item itemvalue="Application.SoldProductsAggregator (4)" />
+        <item itemvalue="Application.SoldProductsAggregator" />
+        <item itemvalue="Application.SoldProductsAggregator (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,8 +314,66 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681647628832</updated>
-      <workItem from="1681647630093" duration="10000" />
+      <workItem from="1681647630093" duration="3536000" />
+      <workItem from="1681733479429" duration="33000" />
+      <workItem from="1687681538016" duration="8376000" />
+      <workItem from="1700753289834" duration="1452000" />
+      <workItem from="1700825646224" duration="616000" />
+      <workItem from="1701272973212" duration="1588000" />
+      <workItem from="1701875705785" duration="611000" />
+      <workItem from="1703242489258" duration="27000" />
+      <workItem from="1705426841670" duration="2106000" />
+      <workItem from="1705680924021" duration="1192000" />
+      <workItem from="1705927277703" duration="2449000" />
+      <workItem from="1706192494642" duration="1380000" />
+      <workItem from="1706378142399" duration="2586000" />
+      <workItem from="1706528745604" duration="25000" />
+      <workItem from="1707216616902" duration="12752000" />
+      <workItem from="1707304113425" duration="4874000" />
+      <workItem from="1707390094783" duration="6472000" />
+      <workItem from="1707801582952" duration="2756000" />
+      <workItem from="1707921753325" duration="2719000" />
+      <workItem from="1708160865021" duration="1818000" />
+      <workItem from="1708361749583" duration="20883000" />
+      <workItem from="1708510318869" duration="605000" />
+      <workItem from="1708683639639" duration="610000" />
+      <workItem from="1710205542671" duration="14317000" />
+      <workItem from="1710484798327" duration="6635000" />
+      <workItem from="1710899630689" duration="2652000" />
+      <workItem from="1711120176256" duration="8377000" />
+      <workItem from="1711529839356" duration="1190000" />
+      <workItem from="1711610594364" duration="14940000" />
+      <workItem from="1711964328628" duration="4241000" />
+      <workItem from="1712107050960" duration="4396000" />
+      <workItem from="1712196150202" duration="1634000" />
+      <workItem from="1712282795474" duration="7724000" />
+      <workItem from="1712365229061" duration="1581000" />
+      <workItem from="1712375959763" duration="2045000" />
+      <workItem from="1712429693915" duration="1315000" />
+      <workItem from="1713177508532" duration="1501000" />
+      <workItem from="1713521241419" duration="40000" />
+      <workItem from="1714039968986" duration="1631000" />
+      <workItem from="1714109994337" duration="2402000" />
+      <workItem from="1714126268960" duration="3667000" />
+      <workItem from="1714448738533" duration="72000" />
+      <workItem from="1714448921280" duration="19055000" />
+      <workItem from="1714627201182" duration="7033000" />
+      <workItem from="1714659691158" duration="7062000" />
+      <workItem from="1714730576481" duration="13759000" />
+      <workItem from="1714809758897" duration="6423000" />
+      <workItem from="1714995342890" duration="4384000" />
+      <workItem from="1715058808028" duration="3517000" />
+      <workItem from="1715140799931" duration="1302000" />
+      <workItem from="1715167444819" duration="395000" />
     </task>
+    <task id="LOCAL-00001" summary="DSA">
+      <created>1681647786225</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681647786225</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -49,5 +389,98 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DSA" />
+    <option name="LAST_COMMIT_MESSAGE" value="DSA" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dsa/problems/SumOFNNumbers.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dsa/problems/OddEvenWithAnd.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/concurrency/practice/GFG.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/concurrency/practice/MaxCountInList.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/inteveivew/DigitSumChallenge.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/inteveivew/Palindrome.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/inteveivew/SumFirstAndLastDigit.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/inteveivew/EvenDigitSum.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/inteveivew/SharedDigit.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/inteveivew/NumberToWords.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/inteveivew/MissingNumber.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/inteveivew/PrintReverseArr.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/concurrency/practice/MapCheck.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/streams/wipro/SoldProductsAggregator.java</url>
+          <line>45</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/streams/Banc.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/streams/wipro/RomanToNumber.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
